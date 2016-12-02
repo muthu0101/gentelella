@@ -86,6 +86,7 @@ If `gulp` is installed, follow the steps below.
 * [Gentellela on Smarty 3](https://github.com/microvb/otp-thing) with one time password generator, validator, and QR code generator that has no web dependencies (self-contained) in PHP thanks to MicroVB INC
 * [Gentellela integrated into Symfony 3](https://github.com/krzysiekpiasecki/Gentelella) full stack PHP framework thanks to Krzysztof Piasecki.
 * [Gentelella on Yii framework 2](https://github.com/yiister/yii2-gentelella) with an asset bundle, a layout template and some widgets.
+* [Gentelella into Laravel 5](https://github.com/FlorientR/laravel-gentelella) 
 
 Let us know if you have done integration for this admin template on other platforms and frameworks and we'll be happy to share your work.
 
